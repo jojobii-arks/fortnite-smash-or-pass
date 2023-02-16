@@ -61,8 +61,8 @@
 				bind:this={img}
 			/>
 			<div class="flex justify-between gap-4">
-				<button on:click={userOutfitSmash} class="btn flex-1 btn-lg btn-secondary">Pass</button>
-				<button on:click={userOutfitPass} class="btn flex-1 btn-lg btn-success">Smash</button>
+				<button on:click={userOutfitPass} class="btn flex-1 btn-lg btn-secondary">Pass</button>
+				<button on:click={userOutfitSmash} class="btn flex-1 btn-lg btn-success">Smash</button>
 			</div>
 		</div>
 	</div>
